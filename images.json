@@ -105,5 +105,20 @@
       "styles": [],
       "source": "Pollinations.ai"
     }
+  },
+  {
+    "id": "img_1782838455511",
+    "prompt": "dog fanart",
+    "url": "https://raw.githubusercontent.com/youenowes/image-gallery/main/public/images/img_1782838454031.jpg",
+    "filename": "img_1782838454031.jpg",
+    "createdAt": "2026-06-30T16:54:15.511Z",
+    "metadata": {
+      "resolution": "square",
+      "enhanced": true,
+      "styles": [
+        "digital art"
+      ],
+      "source": "Pollinations.ai"
+    }
   }
 ]
